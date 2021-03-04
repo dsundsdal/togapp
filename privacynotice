@@ -1,0 +1,28 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <style>
+  body {
+      word-wrap: break-word;
+      max-width: 100%;
+      margin-top:50px;
+      margin-left: 30px;
+      margin-right: 30px;
+      color: black;
+      line-height:24px;
+      font-family: HelveticaNeue;
+  }
+  </style>
+  </head>
+  <body>
+  <p>Tog collects non identifiable data while you use the app in order to enhance current features and improve the overall user experience. Here are some examples of what data is collected:</p>
+<ul>
+<li>device specific information e.g. operating system version, what device you are using, what version of the app you are running,</li>
+<li>anonymous usage data e.g. features frequently used, number of times you use the app a day,</li>
+<li>crash reporting e.g. the state of the app while it was crashing.</li>
+</ul>
+<p>If you have any further questions or doubts about what information is collected, please send an email to tog_app [at] icloud [dot] com.</p>
+</body>
+</html>
